@@ -1,0 +1,10 @@
+
+
+train: C:/Users/misha/Golf Ball/Golf Ball/Detection/train_data/images/train/  # 118287 images
+val: C:/Users/misha/Golf Ball/Golf Ball/Detection/train_data/images/val  # 5000 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'sports ball' ]
